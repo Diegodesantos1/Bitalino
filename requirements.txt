@@ -1,0 +1,3 @@
+opensignalsreader
+matplotlib
+pandas
