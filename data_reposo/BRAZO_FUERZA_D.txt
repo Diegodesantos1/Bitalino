@@ -1,3 +1,6 @@
+# OpenSignals Text File Format. Version 1
+# {"84:BA:20:5E:FF:7F": {"position": 0, "device": "bitalino_rev", "device name": "84:BA:20:5E:FF:7F", "device connection": "BTH84:BA:20:5E:FF:7F", "sampling rate": 100, "resolution": [4, 1, 1, 1, 1, 10], "firmware version": 1282, "comments": "", "keywords": "", "mode": 0, "sync interval": 2, "date": "2024-3-6", "time": "18:46:9.728", "channels": [1], "sensor": ["EMGBITREV"], "label": ["A1"], "column": ["nSeq", "I1", "I2", "O1", "O2", "A1"], "special": [{}], "digital IO": [0, 0, 1, 1]}}
+# EndOfHeader
 0	0	0	0	0	511	
 1	0	0	0	0	508	
 2	0	0	0	0	508	
@@ -3495,31 +3498,3 @@
 6	0	0	0	0	508	
 7	0	0	0	0	509	
 8	0	0	0	0	508	
-9	0	0	0	0	508	
-10	0	0	0	0	508	
-11	0	0	0	0	508	
-12	0	0	0	0	508	
-13	0	0	0	0	508	
-14	0	0	0	0	509	
-15	0	0	0	0	508	
-0	0	0	0	0	507	
-1	0	0	0	0	508	
-2	0	0	0	0	507	
-3	0	0	0	0	507	
-4	0	0	0	0	508	
-5	0	0	0	0	509	
-6	0	0	0	0	508	
-7	0	0	0	0	508	
-8	0	0	0	0	507	
-9	0	0	0	0	508	
-10	0	0	0	0	508	
-11	0	0	0	0	508	
-12	0	0	0	0	508	
-13	0	0	0	0	507	
-14	0	0	0	0	508	
-15	0	0	0	0	508	
-0	0	0	0	0	508	
-1	0	0	0	0	508	
-2	0	0	0	0	508	
-3	0	0	0	0	508	
-4	0	0	0	0	508	
