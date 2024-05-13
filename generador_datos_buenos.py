@@ -1,6 +1,6 @@
 # Nombre del archivo de entrada y salida
-nombre_archivo_entrada = "data_estimulo/BRAZO_CANSADO_REPOSO_D.txt"
-nombre_archivo_salida = "DATOS_9.txt"
+nombre_archivo_entrada = "data_reposo/BRAZO_REPOSO_D.txt"
+nombre_archivo_salida = "DATOS_11.txt"
 
 # Lista para almacenar los datos modificados
 datos_modificados = []
@@ -14,7 +14,7 @@ with open(nombre_archivo_entrada, 'r') as archivo_entrada:
         # Dividir la línea en columnas separadas por tabulaciones
         columnas = linea.strip().split('\t')
         # Convertir el último valor de la última columna a entero y sumar 10
-        valor_modificado = int(columnas[-1]) + 30
+        valor_modificado = int(columnas[-1]) -30
         # Modificar el último valor en la lista de columnas
         columnas[-1] = str(valor_modificado)
         # Unir las columnas de nuevo en una línea y agregarla a la lista de datos modificados
