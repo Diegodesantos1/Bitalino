@@ -1,5 +1,5 @@
 # Nombre del archivo de entrada y salida
-nombre_archivo_entrada = "data_reposo/BRAZO_REPOSO_D.txt"
+nombre_archivo_entrada = "data_reposo/BRAZO_FUERZA_D.txt"
 nombre_archivo_salida = "DATOS_11.txt"
 
 # Lista para almacenar los datos modificados
