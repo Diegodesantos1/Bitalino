@@ -44,10 +44,10 @@ Aquí algunos ejemplos de las gráficas generadas:
 
 
 <h2>Primera Parte: Datos</h2>
-Para iniciar el proyecto, depuramos los datos y generamos muestras aleatorias con el fin de aumentar la eficacia del entrenamiento del modelo posteriormente definido.
+Para iniciar el proyecto, depuramos los datos y generamos muestras aleatorias con el fin de aumentar la eficacia del entrenamiento del modelo posteriormente definido. Los datos iniciales pueden verse en <a href="https://github.com/Diegodesantos1/Bitalino/blob/main/visualizaci%C3%B3n.ipynb">visualizacion.ipynb</a>
 
 <h2>Segunda Parte: Modelo</h2>
-Después de adquirir una base decente de muestras, procedimos a entrenar un modelo de red neuronal convolucional capaz de distinguir el estado de un músculo según la gráfica introducida que hace referencia a él.
+Después de adquirir una base decente de muestras, procedimos a entrenar un modelo de red neuronal convolucional capaz de distinguir el estado de un músculo según la gráfica introducida que hace referencia a él. Esta se encuentra en <a href="https://github.com/Diegodesantos1/Bitalino/blob/main/CNN.ipynb">CNN.ipynb</a>
 
 <h2>Trabajo</h2>
 El trabajo tipo "TFG" se encuentra en Bitalino.pdf
